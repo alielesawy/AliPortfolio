@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "AliEsmail",
   nickname: "علي إسماعيل",
   subTitle:
-    "Aspiring Backend Java Developer Recent graduate from 6th October University, driven to craft the powerful backends that power exceptional user experiences. I thrive in a Java environment, adept at object-oriented programming, database integration, and server-side development. I'm eager to contribute to a collaborative team and continuously learn from industry veterans. My passion lies in building scalable APIs and optimizing performance for cloud-based applications.",
+    "Aspiring Backend Java Developer Recent graduate from 6th October University, driven to craft the powerful backends that power exceptional user experiences. I thrive in a Java environment, adept at object-oriented programming, database integration, and server-side development. I'm eager to contribute to a collaborative team and continuously learn from industry veterans. My passion lies in building scalable APIs and optimizing performance for cloud-based applications.  Include relevant keywords like Java developer,backend development, [Egypt] Java developer etc.",
   resumeLink:
     "https://docs.google.com/document/d/1XI3R5j5oUK68auRj2PMEp9F0slVcqbhX/edit?usp=drive_link&ouid=103870504947254622133&rtpof=true&sd=true",
   //portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
