@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Ali Esmaeil Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://alielesawy/github.io/alielesawy.github.io",
   },
 };
 
