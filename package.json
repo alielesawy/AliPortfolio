@@ -2,7 +2,7 @@
   "private": true,
   "name": "Ali's Portfolio",
   "version": "0.1.0",
-  "homepage": "https://alielesawy.github.io/AliPortfolio/",
+  "homepage": "https://github.com/alielesawy/alielesawy.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
