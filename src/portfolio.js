@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -105,7 +105,7 @@ const skills = {
       skills: [
         "🌘 I spend most of my time coding and learning new things.",
         "🦾 I'm a fast learner with a strong work ethic, leading to consistent high productivity.",
-        "💡  I'm eager to learn from experienced professionals to further my development.  If you'd be open to it, I'd be honored to have you as a mentor.",
+        "❗❗❗  I'm eager to learn from experienced professionals to further my development.  If you'd be open to it, I'd be honored to have you as a mentor.❓❓❓",
       ],
       softwareSkills: [
         {

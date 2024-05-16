@@ -1,14 +1,23 @@
 {
   "files": {
     "main.css": "/alielesawy/alielesawy.github.io/static/css/main.d4c3b061.chunk.css",
+<<<<<<< HEAD
     "main.js": "/alielesawy/alielesawy.github.io/static/js/main.a6fef958.chunk.js",
     "main.js.map": "/alielesawy/alielesawy.github.io/static/js/main.a6fef958.chunk.js.map",
+=======
+    "main.js": "/alielesawy/alielesawy.github.io/static/js/main.622acdd6.chunk.js",
+    "main.js.map": "/alielesawy/alielesawy.github.io/static/js/main.622acdd6.chunk.js.map",
+>>>>>>> origin/main
     "runtime-main.js": "/alielesawy/alielesawy.github.io/static/js/runtime-main.ea1abed1.js",
     "runtime-main.js.map": "/alielesawy/alielesawy.github.io/static/js/runtime-main.ea1abed1.js.map",
     "static/js/2.d7b74964.chunk.js": "/alielesawy/alielesawy.github.io/static/js/2.d7b74964.chunk.js",
     "static/js/2.d7b74964.chunk.js.map": "/alielesawy/alielesawy.github.io/static/js/2.d7b74964.chunk.js.map",
     "index.html": "/alielesawy/alielesawy.github.io/index.html",
+<<<<<<< HEAD
     "precache-manifest.4553c8d2f744444ee4c44a608b540b1c.js": "/alielesawy/alielesawy.github.io/precache-manifest.4553c8d2f744444ee4c44a608b540b1c.js",
+=======
+    "precache-manifest.3e6686eaa0828b92d7498bc08b882c7c.js": "/alielesawy/alielesawy.github.io/precache-manifest.3e6686eaa0828b92d7498bc08b882c7c.js",
+>>>>>>> origin/main
     "service-worker.js": "/alielesawy/alielesawy.github.io/service-worker.js",
     "static/css/main.d4c3b061.chunk.css.map": "/alielesawy/alielesawy.github.io/static/css/main.d4c3b061.chunk.css.map",
     "static/media/index.css": "/alielesawy/alielesawy.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -55,6 +64,10 @@
     "static/js/runtime-main.ea1abed1.js",
     "static/js/2.d7b74964.chunk.js",
     "static/css/main.d4c3b061.chunk.css",
+<<<<<<< HEAD
     "static/js/main.a6fef958.chunk.js"
+=======
+    "static/js/main.622acdd6.chunk.js"
+>>>>>>> origin/main
   ]
 }
